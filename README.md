@@ -12,8 +12,6 @@
 ## Lliurables (3 elements)
 1. **Fitxa tècnica** de la torre en **MD o HTML** (vegeu `/templates`).
 2. **Fotografies** (5–8): frontal, posterior, interior, etiqueta de la PSU, detalls de ports/ranures. *(Sense números de sèrie ni MAC visibles.)*
-3. **Evidències de maquinari**: sortides d’eines (Windows/Linux/macOS) que **mostrin només maquinari**. Podeu usar els scripts de `/scripts/*`.
-
 > **Privacitat:** No inclogueu números de sèrie, adreces MAC, claus de producte ni informació de l’SO. Tapeu o retalleu si cal.
 
 ## Checklist (només torre)
@@ -29,17 +27,6 @@
 - [ ] Expansió: PCIe ocupats/lliures, headers (USB, ARGB, fan…).
 - [ ] Manteniment: neteja recent, cablejat, pasta tèrmica, peces canviades i data.
 - [ ] **Sense cap menció a l’SO.**
-
-## Pauta de sessió (2 × 55’)
-**S1 — Inspecció i recollida (55’)**  
-1) Seguretat + obertura de caixa (10’).  
-2) Fotografies i llistat de components *in situ* (20’).  
-3) Export de **dades de maquinari** amb les eines o scripts (25’).
-
-**S2 — Fitxa i evidències (55’)**  
-1) Emplenat de plantilla (35’).  
-2) Revisió amb **checklist** + **rúbrica** (15’).  
-3) Lliurament (5’).
 
 ## Avaluació
 - **Rúbrica**: vegeu [`/rubrica/rubrica.md`](rubrica/rubrica.md) i [`/rubrica/rubrica.csv`](rubrica/rubrica.csv).

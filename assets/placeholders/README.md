@@ -1,0 +1,1 @@
+Aquesta carpeta pot contenir imatges d'exemple o icones de suport.
