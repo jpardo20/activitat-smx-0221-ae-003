@@ -28,11 +28,6 @@
 - [ ] Manteniment: neteja recent, cablejat, pasta tèrmica, peces canviades i data.
 - [ ] **Sense cap menció a l’SO.**
 
-## Avaluació
-- **Rúbrica**: vegeu [`/rubrica/rubrica.md`](rubrica/rubrica.md) i [`/rubrica/rubrica.csv`](rubrica/rubrica.csv).
-- **Autochequeig** (opcional): executeu `python tools/validate_no_os.py` i `python tools/check_placeholders.py`.
-  - Requereix Python 3.10+.
-
 ## Estructura del repo
 ```
 activitat-smx-0221-ae-003/
@@ -40,19 +35,9 @@ activitat-smx-0221-ae-003/
 ├─ templates/
 │  ├─ plantilla-fitxa-torre.md
 │  └─ plantilla-fitxa-torre.html
-├─ rubrica/
-│  ├─ rubrica.md
-│  └─ rubrica.csv
-├─ scripts/
-│  ├─ windows/collect_hw_info.ps1
-│  ├─ linux/collect_hw_info.sh
-│  └─ macos/collect_hw_info.sh
-├─ tools/
-│  ├─ validate_no_os.py
-│  └─ check_placeholders.py
-├─ evidencies/   # Sortides dels scripts i captures
 ├─ docs/         # Versió HTML per publicar (GitHub Pages)
-└─ lliurament/instruccions-lliurament.md
+└─ lliurament/
+   └─ instruccions-lliurament.md
 ```
 
 ## Bones pràctiques
